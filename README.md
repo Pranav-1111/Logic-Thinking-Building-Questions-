@@ -35,7 +35,7 @@ These questions are simple yet effective for building **logical thinking**, **co
 
 ## 💡 How to Use  
 
-1. Download the [PDF file](./Logic_And_Thinking_Building_Questions.pdf).  
+1. Download the [PDF file](./🚀Logic_And_Thinking_Building_Questions.pdf).  
 2. Try solving problems in **your preferred programming language**.  
 3. Share your solutions or approaches!  
 
