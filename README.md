@@ -58,8 +58,8 @@ If you’d like to add your own solutions or new problems, feel free to fork the
 
 ## 📬 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧑‍💻 [GitHub](https://github.com/your-username)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-bhatt-b0127b28b/)  
+- 🧑‍💻 [GitHub](https://github.com/Pranav-1111)  
 
 ---
 
